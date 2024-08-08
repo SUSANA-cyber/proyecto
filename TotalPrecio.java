@@ -16,6 +16,7 @@ precio = scanner.nextDouble();
 totalDescuento = precio * (1-0.20);
 //mostrar el monto final del descuento
 //descunto final 
+//fin codigo
 precioFinal = totalDescuento * (0.12);
 
 System.out.println("Precio descuento:" + totalDescuento);
